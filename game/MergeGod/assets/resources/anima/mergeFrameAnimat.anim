@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mergeFrameAnimat",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "deea302f-9d62-48a9-b401-8c8356a98b9e"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "d1dca07e-ec8b-40b4-861a-4c4245898536"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "cc20cf0c-389d-47ba-8ba1-9d3a0e5fac68"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "1ada258a-81af-457d-9ef3-d43af3239bcd"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "0df403e7-f4c2-41d9-aea8-40f09d61520e"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": null
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

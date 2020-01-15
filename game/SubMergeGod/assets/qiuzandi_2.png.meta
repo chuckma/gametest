@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "895dbc6d-4bce-432e-81de-c7c2fa6c2893",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "qiuzandi_2": {
+      "ver": "1.0.3",
+      "uuid": "29d8dc79-44e5-4289-8447-f6664efa3a81",
+      "rawTextureUuid": "895dbc6d-4bce-432e-81de-c7c2fa6c2893",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 96,
+      "height": 96,
+      "rawWidth": 96,
+      "rawHeight": 96,
+      "borderTop": 17,
+      "borderBottom": 17,
+      "borderLeft": 16,
+      "borderRight": 16,
+      "subMetas": {}
+    }
+  }
+}
